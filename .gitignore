@@ -22,3 +22,12 @@ Thumbs.db
 # Large data files (uncomment if datasets are too large)
 # *.csv
 # ml-latest-small/
+.gitignore
+22051467 Practical Training PPT.pdf
+Enhanced_PPT_Conclusion_and_Improvements.txt
+IBM_ML_Projects_PPT_Summary.txt
+Unsupervised_Clustering_Viva_Questions_and_Answers.txt
+Ramen_Viva_Questions_and_Answers.txt
+Movie_Recommendation_Capstone_Viva_Questions_and_Answers.txt
+IBM_ML_Certificate_Presentation.pptx
+IRIS_Viva_Questions_and_Answers.txt
